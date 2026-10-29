@@ -1,0 +1,8 @@
+{
+  "name": "TimelineForge - Digital Forensics & Incident Timeline",
+  "description": "Lightweight digital forensics and incident timeline tool for small IT security teams. Features hash-chained evidence custody, RFC 3164 syslog & Apache log parsers, clock skew correction, full-text search, and AI triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
